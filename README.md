@@ -34,8 +34,9 @@ Most respondents were from 📚 3rd year, followed by 📚 2nd and 📚 4th year
 📊 Google Sheets (Data Cleaning, Visualization, Dashboard)
 
 ## 📁 Files:
-🖼️ Final feedback dashboard image
+🖼️ Final feedback dashboard image - <a href="https://github.com/Sheebalakshmi/College-Event-Feedback-Analysis-Dashboard-/blob/main/College%20Event%20Feedback%20Analysis%20Dashboard%20.jpg"> Dashboard </a>
 
 ### 📬 Contact:
 👋 R.Sheebalakshmi
 🎓 B.E. Computer Science (3rd Year) – Holy Cross Engineering College
+Role: Data Science and data analyst intern at Futureinterns 
